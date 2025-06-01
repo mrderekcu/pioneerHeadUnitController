@@ -70,10 +70,10 @@ Resistors are 1% 0805.
 - [1.2k Ohm](https://www.digikey.com/en/products/detail/yageo/RC0805FR-101K2L/14008301)
 - [tactile switch](https://www.digikey.com/en/products/detail/e-switch/TL3301NF160QG-KR/271564)
 
-![Schematic](2024-04-21_pioneerRemotePCB-schematic.png)
-![PCB Top](2024-04-21_pioneerRemotePCB-top.png)![PCB Bottom](2024-04-21_pioneerRemotePCB-bottom.png)
+![Schematic](media/2024-04-21_pioneerRemotePCB-schematic.png)
+![PCB Top](media/2024-04-21_pioneerRemotePCB-top.png)![PCB Bottom](media/2024-04-21_pioneerRemotePCB-bottom.png)
 ## Installation
 
 I recommend placement near the shifter. It's a natural place for your hand/arm while driving. Use VHB or 3M dual lock tape. The adhesive has held on strong through the summer heat.
-![Installation Example 01](PioneerRemoteControl-02_2025-05-31.jpg)
-![Installation Example 02](pioneerRemoteControl-01_2025-05-31.jpg)
+![Installation Example 01](media/PioneerRemoteControl-02_2025-05-31.jpg)
+![Installation Example 02](media/pioneerRemoteControl-01_2025-05-31.jpg)
