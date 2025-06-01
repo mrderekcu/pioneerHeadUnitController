@@ -7,7 +7,7 @@ I bought a Pioneer head unit a while back to bring some modernity, mainly Androi
 
 Now the user manual does show an option for a remote control that is ready to use; Amazon clone units could be purchased for less than $12. 
 
-![[Pasted image 20250531205146.png]]
+![[media/pioneerHeadUnitController_stockRemote.png]]
 
 But there are a few flaws that made it a no-go for me. 
 - It uses a lithium coin cell battery
@@ -28,7 +28,7 @@ There's this post about using a digital pot to generate resistance values. I use
 https://forum.arduino.cc/t/steering-wheel-remote-audio-control/223878/4
 
 ![[pioneer_remote_connection_diagram.gif]]
-![[d7e74883cce6e93dbf359f92451eba14dcfc4b05.gif]]
+![[media/pioneerHeadUnitController_wiringDiagram-02.gif]]
 A potentiometer and DMM let me verify resistance values. Volume, prev/next track, mute and source/off registered with my unit. Display and band/escape didn't work. 
 
 I only really care about volume and track control but will bake in a 5th button in case I need it.
@@ -58,8 +58,8 @@ I tucked the wire from the head unit into the plastic trim over the transmission
 Recommended print out of ABS/ASA 
 Use 4x M2x5mm self tapping screws for the housing.
 
-![[Pasted image 20250531175459.png]]
-![[Pasted image 20250531175742.png]]
+![[media/pioneerHeadUnitController_CAD_controller-01.png]]
+![[media/pioneerHeadUnitController_CAD_controller-02.png]]
 ## PCB
 
 Resistors are 1% 0805.
