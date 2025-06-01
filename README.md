@@ -75,5 +75,5 @@ Resistors are 1% 0805.
 ## Installation
 
 I recommend placement near the shifter. It's a natural place for your hand/arm while driving. Use VHB or 3M dual lock tape. The adhesive has held on strong through the summer heat.
-![Installation Example 01](media/PioneerRemoteControl-02_2025-05-31.jpg)
+![Installation Example 01](media/pioneerRemoteControl-02_2025-05-31.jpg)
 ![Installation Example 02](media/pioneerRemoteControl-01_2025-05-31.jpg)
