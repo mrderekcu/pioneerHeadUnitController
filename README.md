@@ -7,7 +7,7 @@ I bought a Pioneer head unit a while back to bring some modernity, mainly Androi
 
 Now the user manual does show an option for a remote control that is ready to use; Amazon clone units could be purchased for less than $12. 
 
-![[media/pioneerHeadUnitController_stockRemote.png]]
+![Stock Remote](media/pioneerHeadUnitController_stockRemote.png)
 
 But there are a few flaws that made it a no-go for me. 
 - It uses a lithium coin cell battery
@@ -27,8 +27,8 @@ There's this post about using a digital pot to generate resistance values. I use
 
 https://forum.arduino.cc/t/steering-wheel-remote-audio-control/223878/4
 
-![[pioneer_remote_connection_diagram.gif]]
-![[media/pioneerHeadUnitController_wiringDiagram-02.gif]]
+![Resistance Values 01](pioneer_remote_connection_diagram.gif)
+![Resistance Values 02](media/pioneerHeadUnitController_wiringDiagram-02.gif)
 A potentiometer and DMM let me verify resistance values. Volume, prev/next track, mute and source/off registered with my unit. Display and band/escape didn't work. 
 
 I only really care about volume and track control but will bake in a 5th button in case I need it.
@@ -58,8 +58,8 @@ I tucked the wire from the head unit into the plastic trim over the transmission
 Recommended print out of ABS/ASA 
 Use 4x M2x5mm self tapping screws for the housing.
 
-![[media/pioneerHeadUnitController_CAD_controller-01.png]]
-![[media/pioneerHeadUnitController_CAD_controller-02.png]]
+![Overview](media/pioneerHeadUnitController_CAD_controller-01.png)
+![Top Housing Removed](media/pioneerHeadUnitController_CAD_controller-02.png)
 ## PCB
 
 Resistors are 1% 0805.
@@ -70,10 +70,10 @@ Resistors are 1% 0805.
 - [1.2k Ohm](https://www.digikey.com/en/products/detail/yageo/RC0805FR-101K2L/14008301)
 - [tactile switch](https://www.digikey.com/en/products/detail/e-switch/TL3301NF160QG-KR/271564)
 
-![[2024-04-21_pioneerRemotePCB-schematic.png]]
-![[2024-04-21_pioneerRemotePCB-top.png]]![[2024-04-21_pioneerRemotePCB-bottom.png]]
+![Schematic](2024-04-21_pioneerRemotePCB-schematic.png)
+![PCB Top](2024-04-21_pioneerRemotePCB-top.png)![PCB Bottom](2024-04-21_pioneerRemotePCB-bottom.png)
 ## Installation
 
 I recommend placement near the shifter. It's a natural place for your hand/arm while driving. Use VHB or 3M dual lock tape. The adhesive has held on strong through the summer heat.
-![[pioneerRemoteControl-02_2025-05-31.jpg]]
-![[pioneerRemoteControl-01_2025-05-31.jpg]]
+![Installation Example 01](PioneerRemoteControl-02_2025-05-31.jpg)
+![Installation Example 02](pioneerRemoteControl-01_2025-05-31.jpg)
